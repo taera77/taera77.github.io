@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About Taera
-HR Analytics 
-Data Science 
-Teaching(Language-Korean Literature & English Language| HR | Analytics)
+# Who is? Taera
+HR Analytics | Data Science | Teaching
+Language-Korean Literature & English Language | HR | Analytics
 
 - Cornell University, ILR School, MILR · Sogang University, Graduate School of Business- MBA  
 - People Analytics, ADsP/Big Data Analysis Engineer(빅데이터 분석기사 필기 합격)  
